@@ -1,6 +1,6 @@
 # NLP Web App
 
-#### I have used [komprehend](https://komprehend.io/) API to perform **NER (NNamed Entity Recognition)** focused feature.
+#### I have used [komprehend](https://komprehend.io/) API to perform **NER (Named Entity Recognition)** focused feature.
 
 
 ##### Note :- For usecase, I have build [NER](https://komprehend.io/named-entity-recognition) app, but [komprehend](komprehend.io) have different APIs too, like 
